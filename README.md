@@ -12,4 +12,5 @@ Routed to a landing page.
 
 Click logout to logout of session and return to login page.
 ![Screenshot (12)](https://user-images.githubusercontent.com/101233555/158041109-d45ea94a-001e-4a1a-b13a-f19e72ddd919.png)
+All Done!
 
